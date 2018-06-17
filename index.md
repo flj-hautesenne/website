@@ -19,7 +19,7 @@ Les parents reçoivent quant à eux une attestation de participation à la FLJ �
 Un repas est également organisé à l'issue de la fête, sans obligation d'y participer.
 Celui-ci est gratuit pour les enfants fêtés.
 
-Si vous souhaitez que votre enfant participe à cette Fête l’an prochain ou si vous avez des questions, n'hésitez pas à [**nous contacter**](./contacts.html).
+Si vous souhaitez que votre enfant participe à cette Fête l’an prochain ou si vous avez des questions, n'hésitez pas à [**nous contacter**](./contact.html).
 Nous nous ferons un plaisir de vous communiquer tous les renseignements utiles.
 
 Si vous le souhaitez, il vous est possible de nous rencontrer lors de notre traditionnel [**repas « Moules et frites »**](./moules-frites.html) (d'autres choix de menu sont disponibles) qui se déroule fin octobre au Gai Logis à Ecaussinnes.
