@@ -19,7 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   La Fête Laïque de la Jeunesse offre aux citoyens de demain la possibilité de marquer de manière symbolique le passage de l’enfance à l’adolescence, en soulignant l’importance de pouvoir penser et décider librement de leurs choix et engagements.
   Elle est à la fois un moment de réflexion, de convivialité et de divertissement.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.flj-hautesenne.be" # the base hostname & protocol for your site, e.g. http://example.com
+url: ""
+#url: "https://www.flj-hautesenne.be" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
