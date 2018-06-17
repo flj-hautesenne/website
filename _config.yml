@@ -3,7 +3,7 @@ email: fetes.laiques.hautesenne@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Braine-le-Comte, Ecaussinnes, Soignies
 show_downloads: false
-google_analytics:
+google_analytics: UA-120907409-1
 theme: jekyll-theme-cayman
 repository: flj-hautesenne/website
 timezone: Europe/Brussels
