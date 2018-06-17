@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+
+{% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
+      <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+      <a href="/" class="btn">Accueil</a>
+      <a href="./flj-2019.html" class="btn">FLJ 2019</a>
+      <a href="./editions-precedentes.html" class="btn">Éditions précédentes</a>
+      <a href="./moules-frites.html" class="btn">Repas aux moules</a>
+      <a href="./faq.html" class="btn">Foire aux questions</a>
+      <a href="./contact.html" class="btn">Nous contacter</a>
+    </section>
+
+    <section class="main-content">
+      {{ content }}
+
+      <footer class="site-footer">
+        <p class="site-footer-credits">Restez informés grâce à notre page Facebook</p>
+        <iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Ffacebook.com%2FFLJHauteSenne%2F&width=450&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId=171908562891076" width="450" height="80" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+      </footer>
+    </section>
+
+    {% if site.google_analytics %}
+      <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', '{{ site.google_analytics }}', 'auto');
+        ga('send', 'pageview');
+      </script>
+    {% endif %}
+  </body>
+</html>
