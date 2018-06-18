@@ -2,3 +2,44 @@
 ---
 
 @import 'jekyll-theme-cayman';
+
+.project-name {
+  position: relative;
+  z-index: 1;
+}
+
+.project-name:after {
+  display: block;
+  content: '';
+  background-image: url(../images/logo-white.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  position: absolute;
+  top: auto;
+  right: auto;
+  left: 50%;
+  z-index: -1;
+  pointer-events: none;
+
+  @include large {
+    width: 200px;
+    height: 150px;
+    bottom: -48px;
+    margin-left: -100px;
+  }
+
+  @include medium {
+    width: 150px;
+    height: 112px;
+    bottom: -37px;
+    margin-left: -100px;
+  }
+
+  @include small {
+    width: 100px;
+    height: 75px;
+    bottom: -25px;
+    margin-left: -50px;
+  }
+
+}
