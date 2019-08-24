@@ -18,3 +18,7 @@ Le prix du repas comprend l'apéritif, le dessert et le café.
 * par téléphone: 0477/90.70.56
 
 Paiement possible sur place ou, idéalement, à l'avance au compte BE97 0682 3158 9749 (communication: "Moules 2019" + Nom + choix menu)
+
+![invit page 1](./Soignies_Repas FLJ_Invitation (1).jpg)
+
+![invit page 2](./Soignies_Repas FLJ_Invitation2 (1).jpg)
