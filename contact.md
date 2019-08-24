@@ -9,8 +9,6 @@ title: Nous contacter
 
 **Astrid ANDRE** – 0477.57.50.88
 
-**Véronique BILLAUD-MAES** – 0477.70.52.85
-
 Adresse postale : Rue Arthur Pouplier 58 – 7190 Écaussinnes
 
 Email : fetes.laiques.hautesenne@gmail.com
