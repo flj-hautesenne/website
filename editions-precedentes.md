@@ -7,6 +7,4 @@ title: Éditions précédentes
 
 ![Les comédients](./FB_IMG_1528401190396.jpg)
 
-![Les 3 présidentes](./FB_IMG_1528401172761.jpg)
-
 ![Les enfants fêtés](./FB_IMG_1528401214955.jpg)
